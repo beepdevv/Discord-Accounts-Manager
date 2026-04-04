@@ -37,11 +37,6 @@ A comprehensive Discord account management and administration tool with a modern
 - **Proxy Support**: HTTP proxy configuration
 - **Persistent Settings**: Settings saved across sessions
 
-### 🛡️ Security Features
-- **Token Obfuscation**: Secure token handling
-- **Webhook Security**: Encrypted webhook delivery
-- **Input Validation**: Comprehensive input sanitization
-- **Error Handling**: Robust error management
 
 ## 📁 Project Structure
 
