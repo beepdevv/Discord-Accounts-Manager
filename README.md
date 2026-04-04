@@ -123,15 +123,6 @@ Root/
 
 ## 🛠️ Tools & Utilities
 
-### Code Cleaner
-```bash
-# Clean comments from frontend files
-python backend/code_cleaner.py --frontend ../frontend --dry-run
-
-# Actually clean comments
-python backend/code_cleaner.py --frontend ../frontend
-```
-
 ### Builder Usage
 1. Configure assembly information and optional icon
 2. Click "Compile and Download" 
