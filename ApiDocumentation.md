@@ -275,7 +275,6 @@ Authorization: Bearer YOUR_TOKEN_HERE
 #### 📥 Download Executable
 ```http
 GET /builder/download
-Authorization: Bearer YOUR_TOKEN_HERE
 ```
 
 **Response:**
