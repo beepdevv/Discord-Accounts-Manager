@@ -135,26 +135,6 @@ Root/
 - **Export**: Download account data as JSON
 - **Bulk Actions**: Select multiple accounts for batch operations
 
-## 🔒 Security Considerations
-
-### Token Security
-- **Storage**: Tokens stored in local SQLite database
-- **Encryption**: Webhook payloads use HTTPS
-- **Validation**: Client-side and server-side validation
-- **Obfuscation**: Built-in token protection features
-
-### Network Security
-- **CORS**: Configured for secure cross-origin requests
-- **Rate Limiting**: Built-in request throttling
-- **Input Sanitization**: All user inputs validated
-- **SQL Injection Protection**: Parameterized queries used
-
-### Best Practices
-- **Environment Variables**: Use `.env` for sensitive data
-- **Regular Updates**: Keep dependencies updated
-- **Access Control**: Implement proper authentication
-- **Audit Logs**: Monitor application activity
-
 ## 🌟 Browser Compatibility
 
 ### Supported Browsers
@@ -228,7 +208,7 @@ This project is provided for educational and research purposes only. Users are r
 ### Code Standards
 - **Python**: PEP 8 compliance
 - **JavaScript**: ESLint configuration
-- **CSS**: Tailwind CSS methodology
+- **CSS**: Tailwind CSS
 - **C++**: Modern C++17 standards
 
 ## 📞 Support
