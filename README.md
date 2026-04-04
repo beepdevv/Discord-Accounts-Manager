@@ -68,11 +68,16 @@ Root/
 - **Modern Browser**: Chrome, Firefox, Edge, Safari
 
 ### Installation
-1. **Clone Repository**:
+1. **Download Repository**:
+   - Go to: https://github.com/beepdevv/Discord-Accounts-Manager
+   - Click **Code** → **Download ZIP**
+
+2. **Extract Files**:
+   - Extract the ZIP to a folder on your computer
+
+3. **Open Folder**:
    ```bash
-   git clone https://github.com/yourusername/InjuryFlooder.git
-   cd InjuryFlooder/DiscordManager
-   ```
+   cd Discord-Accounts-Manager
 
 2. **Backend Setup**:
    ```bash
