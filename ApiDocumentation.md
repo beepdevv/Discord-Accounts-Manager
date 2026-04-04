@@ -530,11 +530,6 @@ services:
 
 ## 📞 Support
 
-### 🆘 Getting Help
-- **API Issues**: Check the error responses and status codes
-- **Compilation Problems**: Verify g++ installation and C++ syntax
-- **Database Issues**: Check file permissions and disk space
-- **Network Problems**: Verify firewall settings and proxy configuration
 
 ### 🐛 Debug Mode
 Enable debug logging by setting environment variable:
@@ -544,18 +539,12 @@ export DEBUG=true
 python main.py
 ```
 
-### 🌐 Community Resources
-- **GitHub Issues**: Report bugs and feature requests
-- **Documentation**: Check this API documentation
-- **Examples**: See the examples section above
 
 ---
 
-**📅 Last Updated**: January 2024  
-**🔢 API Version**: v1.0.0  
-**🌐 Base URL**: `http://localhost:8000`
-
-For the most up-to-date information, check the `/health` endpoint or refer to the version history above.
+**📅 Last Updated**: 04/04/2026
+**🔢 API Version**: v1.0.4
+**🌐 Preset API URL**: `http://localhost:8000`
 
 ---
 
