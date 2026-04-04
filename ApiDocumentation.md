@@ -1,7 +1,4 @@
 # 🚀 Backend API Documentation
-
-Welcome to **Backend API** — a powerful system for managing accounts, relationships, guild interactions, and building executables.
-
 ---
 
 ## � **Base Overview**
