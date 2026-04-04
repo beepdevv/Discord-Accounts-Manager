@@ -225,4 +225,4 @@ This project is provided for educational and research purposes only. Users are r
 
 ---
 
-**Built with ❤️ by the Discord Manager development team**
+**Built with ❤️ by beepdev**
